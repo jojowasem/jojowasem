@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jojowasem
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning more about decision-making in esports
+- 🌱 I’m currently learning machine learning and more about decision-making in sports and esports
 - 💞️ I’m looking to collaborate on Esports and Sports analytics
 - 📫 How to reach me: jojowasem@gmail.com
 
