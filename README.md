@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jojowasem
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning more about decision-making in esports
-- 💞️ I’m looking to collaborate on Esports and Sports anlytics
+- 💞️ I’m looking to collaborate on Esports and Sports analytics
 - 📫 How to reach me: jojowasem@gmail.com
 
 <!---
