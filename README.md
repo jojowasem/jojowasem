@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jojowasem
+- 👋 Hi, I’m Joao Wasem, Data Analyst @ Volvo Group based in Brazil
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning machine learning and more about decision-making in sports and esports
-- 💞️ I’m looking to collaborate on Esports and Sports analytics
+- 🌱 I’m currently focusing in process automation and data viz
+- ♟️ I’m also a chess player
 - 📫 How to reach me: jojowasem@gmail.com
 
 <!---
